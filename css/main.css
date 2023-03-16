@@ -1,0 +1,75 @@
+@import url(fonts.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 1288px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 12px;
+}
+
+.btn {
+    background: #000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: inline-block;
+    font-size: 15px;
+    line-height: 54px;
+    color: #fff;
+    transition: .4s;
+}
+
+.btn:hover {
+    background: #fff;
+    color: #000;
+}
+
+/* nav */
+
+
+
+/* nav */
+
+/* header */
+
+
+
+/* header */
+
+/* info */
+
+
+
+/* info */
+
+/* company */
+
+
+
+/* company */
+
+/* team */
+
+
+
+/* team */
+
+/* footer */
+
+
+
+/* footer */
