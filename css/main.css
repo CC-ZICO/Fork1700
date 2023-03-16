@@ -64,8 +64,40 @@ ul {
 
 /* team */
 
-
-
+.team__content-title {
+    text-align: center;
+    padding-top: 175px;
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 48px;
+}
+.team__content-txt {
+    max-width: 705px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    font-family: "Inter";
+    font-size: 17px;
+    line-height: 180%;
+}
+.team__card {
+    text-align: center;
+}
+.team__cards {
+    display: flex;
+    justify-content: center;
+    gap: 102px;
+    padding-top: 40px;
+}
+.team__card-title {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 10px;
+}
+.team__card-txt {
+     text-align: center;
+     margin-top: 3px;
+}
 /* team */
 
 /* footer */
